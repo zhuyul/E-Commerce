@@ -1,0 +1,235 @@
+body {
+  font: 22px Arial, sans-serif;
+}
+.footer_for_detail{
+  clear:both;
+  text-align: center;
+}
+.form-button{
+  padding: 8px 15px;
+  background:#696969;
+  color: #fff;
+  text-align:center;
+  border:0 none;
+  border-radius: 5px;
+}
+
+.form-button.make_order{
+    text-decoration: none; 
+    font-size: 15px; 
+    right: 15%; 
+    position:absolute;
+}
+
+.form-button.go_back{
+    text-decoration: none; 
+    font-size: 15px; 
+    right: 25%; 
+    position:absolute;
+}
+
+.form-button.remove_button{
+    text-decoration: none; 
+    font-size: 15px; 
+    color:#000000;
+    background: #FFFFFF;
+    right: 20%; 
+    position:absolute;
+    border-style: solid;
+    border-color:#000000;
+    border-width: 2px;
+    padding: 5px; 
+    padding-top: 5px;
+}
+
+nav {
+  position: relative;
+  padding: 0px 0 10px 0;
+  background:  #696969;
+  font-size: 17px;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+nav .navbar-left{
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  width: 10%;
+}
+
+nav .navbar-middle {
+  padding-top: 18px;
+  margin: 0 auto;
+  width: 60%;
+
+}
+nav .navbar-right {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 10%;
+  padding-bottom: 0px;
+  margin-right: 5%;
+}
+
+nav ul li {
+  position: auto;
+  display: inline-block;
+  padding-left: 10px;
+}
+
+nav ul li a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+nav .navbar-middle li{
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  width: 15%;
+  text-align: left;
+}
+
+li a:hover{
+  color:#000000;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+}
+
+
+footer {
+  height: auto;
+  background: #e6e6e6;
+  position: relative;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: left;
+}
+
+footer table{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+footer table tr th{
+  width:25%;
+}
+
+footer table tr th p{
+  text-decoration: none;
+  color: #404040;
+  font-size: 14px;
+}
+
+
+footer table tr td a{
+  text-decoration: none;
+  color: #404040;
+  font-size: 14px;
+}
+
+
+div table .adjust{
+  margin-top: 15%;
+  margin-bottom: 25%;
+
+}
+
+div.img {
+    margin: 5px;
+    border: none;
+    width: 180px;
+}
+
+
+div.img:hover {
+    border: none;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+    z-index: 1;
+}
+
+
+.QA{
+
+  margin-right: 20%;
+  margin-left: 10%;
+
+}
+
+.QA h3 {
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+.QA p {
+    color: black;
+    text-indent: 50px;
+    font-size: 17px;
+}
+
+div table.center{
+  width: 80%;
+  height: auto;
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 15%;
+  margin-right: 10%;
+  text-align: center;
+}
+
+div table tr th{
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  display: inline-table;
+  width: 30%;
+}
+div table tr th a {
+  text-decoration: none;
+  font: 22px Arial, sans-serif;
+  color: #000000; 
+}
+
+.company_info{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+  width: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left:25%;
+  margin-right: 25%;
+  text-align: center;
+  font-size: 17px;
+  border: solid;
+  border-width: 10px;
+  border-color: #CCCAC8;
+}
+
+.company_info .left{
+  background: #CCCAC8;
+  font-weight: bold;
+}
+
+
+.contact_box{
+  margin-left: 5%;
+  border: solid;
+  border-width: 3px;
+  
+}
+

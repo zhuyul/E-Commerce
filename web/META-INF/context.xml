@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/cs137pj3"/>
+    
+    
+    <!--<Resource name="jdbc/TestDB" auth="Container" type="javax.sql.Datasource" 
+              maxTotal="-1" maxIdle="30" maxWaitMillis="10000"
+              username="inf124grp20" password="f=adra5R" driverClassName="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://sylvester-mccoy-v3.ics.uci.edu/inf124grp20"
+    />
+            
+</Context>-->
